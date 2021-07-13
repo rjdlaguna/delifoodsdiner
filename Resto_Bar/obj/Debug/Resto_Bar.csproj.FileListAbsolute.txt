@@ -1,0 +1,104 @@
+D:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+D:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+D:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.frmMain.resources
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+D:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.frmMain.resources
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.frmMain.resources
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+H:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+G:\Summer 2015\Final Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.frmMain.resources
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+G:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+E:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+E:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+E:\2016 summer_1\6OOPL_Lab Activities\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+G:\ \Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+G:\ \Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+G:\ \Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+G:\ \Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+C:\Users\SJH-707\Desktop\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+C:\Backup - Desktop\USB Backup 2017\Files 061410`6\HAU Summer 2015-2016\Checked Programs\6OOPL_FinalLabExam_WD-302_Forms\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+F:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+F:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+F:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+F:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+E:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+E:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+E:\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+E:\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.exe
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.pdb
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.exe
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\bin\Debug\Resto_Bar.pdb
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csprojResolveAssemblyReference.cache
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.formMAIN.resources
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Form2.resources
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.Properties.Resources.resources
+C:\Backups\USB Backup 05072019\Resto_Bar\Resto_Bar\obj\Debug\Resto_Bar.csproj.GenerateResource.Cache
+C:\Files\Github Repos\Deli Foods Diner\Resto_Bar\bin\Debug\Resto_Bar.exe.config
+C:\Files\Github Repos\Deli Foods Diner\Resto_Bar\obj\Debug\Resto_Bar.exe
+C:\Files\Github Repos\Deli Foods Diner\Resto_Bar\obj\Debug\Resto_Bar.pdb
